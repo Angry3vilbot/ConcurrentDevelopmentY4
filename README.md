@@ -1,2 +1,2 @@
 # ConcurrentDevelopmentY4
-Golang or something idk
+Repository for all Labs for the Concurrent Development class.
