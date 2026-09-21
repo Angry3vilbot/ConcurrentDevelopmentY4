@@ -1,3 +1,7 @@
+// Author: Mykhailo Balaker
+// License: MIT
+// Provided help to: Darian Byrne
+// Received help from: N/A
 package main
 
 import (
